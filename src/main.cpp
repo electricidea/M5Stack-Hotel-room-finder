@@ -1,3 +1,19 @@
+/**************************************************************************
+ * WiFi based location system to find home.
+ * 
+ * A Indoor Positioning System based on WiFi RSSI data to return to the 
+ * right room of a hotel corridor. Maybe useless, but it works just fine!
+ * 
+ * Hague Nusseck @ electricidea
+ * v1.1 05.June.2020
+ * https://github.com/electricidea/M5Stack-Hotel-room-finder
+ * 
+ * Changelog:
+ * v1.1 = - first published version
+ * 
+ * Distributed as-is; no warranty is given.
+ * 
+ ***************************************************************************/
 #include <Arduino.h>
 
 #include <M5Stack.h>
